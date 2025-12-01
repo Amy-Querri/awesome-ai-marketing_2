@@ -21,6 +21,7 @@
 - [Competitive Intelligence & Market Research](#competitive-intelligence--market-research)
 - [Ad Creative & Copy](#ad-creative--copy)
 - [Landing Pages & Conversion Optimization](#landing-pages--conversion-optimization)
+- [AI-Powered CRM & Sales Enablement](#ai-powered-crm--sales-enablement)
 - [Workflow Automation](#workflow-automation)
 - [How to Use This List](#how-to-use-this-list)
 - [Notable Gaps](#notable-gaps)
@@ -42,6 +43,7 @@
 - [HubSpot AI Prompt Libraries](https://offers.hubspot.com/ai-prompt-library) - Two complementary libraries: MATG prompts for creative strategies, and 100 Loop Marketing prompts aligned to Express-Tailor-Expand framework
 - [Learn Prompting Marketing Course](https://learnprompting.org/courses/introduction-to-generative-ai-in-marketing) - Structured 3-day course covering prompt engineering for web copy, email, social, SEO, and visual content
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - 150+ role-based prompts maintained by active open-source community (113k+ GitHub stars); works with ChatGPT, Claude, Gemini
+- [AIPRM](https://www.aiprm.com) - Chrome extension with 4,500+ curated prompts for ChatGPT and Claude; categorized by marketing use case (SEO, copywriting, social media) with one-click access. _Free tier; Plus $10/month._
 
 ### When to Use Prompts vs Tools
 
@@ -92,6 +94,7 @@
 - **[Semrush](https://semrush.com)** - 55+ tools with AI Copilot that surfaces prioritized SEO recommendations daily; new AI Visibility Toolkit tracks brand presence in ChatGPT, Perplexity, and AI Overviews. _$139-499/month, industry standard._
 - **[Ahrefs](https://ahrefs.com)** - Traditional backlink powerhouse with AI Content Helper analyzing top-ranking pages to suggest improvements focused on search intent alignment. _$129+/month._
 - **[MarketMuse](https://marketmuse.com)** - Analyzes your entire website's content inventory, identifying topical authority gaps and suggesting content priorities ranked by potential ROI. _Free tier; paid $99-499/month._
+- **[Rank Math](https://rankmath.com)** - WordPress plugin with AI suggestions for meta tags, schema markup, and on-page optimization; 20+ schema types and bulk editing make it the best free SEO plugin for WordPress sites. _Free core; Pro $59/year._
 
 ### AI Search Optimization (AEO)
 
@@ -110,6 +113,7 @@
 - **[Flick](https://flick.social)** - AI copilot "Iris" brainstorms post ideas in stages—starts with concepts, develops full posts, then repurposes for each channel with hashtag generation. _From £11/month._
 - **[Ocoya](https://ocoya.com)** - All-in-one dashboard writes captions, picks hashtags, and creates post graphics together; strong ecommerce integrations for product-focused posting. _From $15/month._
 - **[Taplio](https://taplio.com)** - LinkedIn specifically. Content creation + engagement. Actually generates B2B leads.
+- **[Later](https://later.com)** - Visual-first scheduling optimized for Instagram grids and visual feeds; AI suggests best times to post and hashtags based on your audience engagement patterns. _Free tier; Pro from $15/month._
 - **[Expandi](https://expandi.io)** - LinkedIn automation for outreach. Use carefully to avoid being flagged.
 
 ---
@@ -151,6 +155,7 @@
 - **[Zendesk AI Agents](https://zendesk.com/service/ai/)** - Autonomous agents resolve up to 80% of support interactions; Agent Copilot proactively guides human agents. _$115+/agent/month; enterprise-grade._
 - **[Tidio Lyro](https://tidio.com/ai-agent/)** - SMB-focused AI agent handles 67% of repetitive queries at $0.50/conversation; reduces first response time by 75%—strictly uses knowledge base with no hallucinations. _Free 50 conversations; Plus from $29/month._
 - **[Freshdesk Freddy AI](https://freshworks.com/customer-service/support/)** - Intelligent ticket triaging, auto-responses, and intent detection; boosts agent productivity by up to 60% with setup in minutes. _Free plan; Growth $15/agent/month._
+- **[Gorgias](https://gorgias.com)** - E-commerce-specific helpdesk with deep Shopify/BigCommerce integration; AI automates up to 60% of support inquiries while agents can edit orders, process refunds, and manage subscriptions without leaving the platform. _From $60/month._
 - **[Ada](https://ada.cx)** - Enterprise chatbot that doesn't sound like a chatbot.
 
 ---
@@ -159,6 +164,7 @@
 
 - **[ChatGPT Data Analyst](https://chat.openai.com)** - Upload your GA4/social data, ask questions in plain English. Shockingly effective.
 - **[Julius.ai](https://julius.ai)** - Specifically built for data analysis. Better than generic ChatGPT for complex datasets.
+- **[Mixpanel](https://mixpanel.com)** - Event-based product analytics with AI-powered insights; tracks user behavior across web and mobile with anomaly detection and funnel analysis that marketers can use without SQL. _Free tier (20M events); paid from $20/month._
 - **[Northbeam](https://northbeam.io)** - Multi-touch attribution using ML to track customer journeys across all channels; combines first-party pixel tracking with media mix modeling for real-time ROI visibility. _Enterprise-focused, $1,000+/month._
 - **[Amplitude](https://amplitude.com)** - Enterprise product analytics with predictive analytics and behavioral cohort analysis; uses ML to forecast conversion probabilities and identify at-risk users. _Free tier (10M events/month); SMB-friendly entry._
 - **[Tableau AI](https://tableau.com)** - Industry-leading visualization enhanced with generative AI that automatically surfaces trends, anomalies, and correlations from marketing data without data science expertise. _$15-75/user/month._
@@ -187,6 +193,14 @@
 - **[Unbounce](https://unbounce.com)** - "Smart Traffic" AI automatically routes visitors to page variants most likely to convert—eliminates traditional A/B testing delays; Dynamic Text Replacement matches headlines to ad keywords. _$99-249/month; AI features on higher tiers._
 - **[Instapage](https://instapage.com)** - Enterprise landing pages with AI Experiments using ML to auto-route traffic to best performers; AdMap visualizes ad-to-page connections for message match. _$79-239/month; 14-day trial._
 - **[Landingi](https://landingi.com)** - Built-in AI text generator, SEO meta generator, and image background removal without leaving the editor; EventTracker monitors scroll depth and clicks for optimization. _Best value at $24-57/month._
+- **[Framer](https://framer.com)** - Design-first no-code website builder with AI page generation, automatic translations, and smooth animations; loved by designers who want full creative control without coding. _Free tier; Pro $30/month._
+
+---
+
+## AI-Powered CRM & Sales Enablement
+
+- **[Gong](https://gong.io)** - Revenue intelligence platform that records, transcribes, and analyzes sales calls to identify what top performers do differently; surfaces deal risks and coaching opportunities automatically. _Enterprise pricing, $10,000+/month for teams._
+- **[HubSpot AI](https://hubspot.com)** - AI features embedded throughout HubSpot CRM including predictive lead scoring, content generation, and automated task creation; practical for teams already in the HubSpot ecosystem. _Included in Pro plans._
 
 ---
 
