@@ -1,8 +1,6 @@
-# Awesome AI Marketing: Best AI Marketing Tools in 2025
+# Awesome AI Marketing: Best AI Marketing Tools in 2026
 
-> A curated list of AI tools and prompts actually worth using for marketing - tested by someone who builds AI marketing systems for clients.
-
-**Philosophy:** This isn't every AI tool ever made. It's the ones that solve real marketing problems without requiring a PhD in prompt engineering.
+> A curated list of AI tools and prompts worth testing for marketing.
 
 ⭐ If you find this useful, give it a star and share it with other marketers navigating the AI noise.
 
@@ -265,7 +263,7 @@ Newer tools showing promise but needing more validation:
 - **[Rankscale AI](https://rankscale.ai)** - Daily AI visibility tracking with white-label agency reporting; currently in beta with founder-led rapid development. _From $20/month._
 - **[Clay](https://clay.com)** - AI-driven centralized prospecting connecting 100+ data sources for GTM workflows; extremely highly rated (4.9/5 on G2) but newer to market.
 - **[Distribution AI](https://distribution.ai)** - "Set it and forget it" content repurposing engine that transforms source material into dozens of platform-optimized assets; promising for content teams but needs broader validation.
-- **[Writesonic GEO Suite](https://writesonic.com)** - Tracks brand visibility across AI platforms and provides actionable recommendations for improving AI citations; launched 2025, transitioning from pure content generation to AEO.
+- **[Writesonic GEO Suite](https://writesonic.com)** - Tracks brand visibility across AI platforms and provides actionable recommendations for improving AI citations; transitioning from pure content generation to AEO.
 
 ---
 
