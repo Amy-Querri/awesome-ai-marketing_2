@@ -230,7 +230,7 @@ Examples: SEO content, ad copy, data analysis
 **🔴 Red Zone Tools** - Dangerous without expertise, proceed with caution  
 Examples: Customer service chatbots, automated responses to complaints
 
-Read more about the zone framework in [this article](https://maxbraglia.substack.com/p/the-ai-hallucination-debate-is-missing).
+Read more about the zone framework in [this article](https://maxbraglia.substack.com/p/the-ai-hallucination-debate-is-missing-the-point).
 
 ### General Guidelines
 
