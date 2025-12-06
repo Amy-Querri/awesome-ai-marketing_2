@@ -34,14 +34,12 @@
 
 ### Essential Prompt Resources
 
-- [Anthropic's Prompt Library](https://docs.anthropic.com/en/prompt-library/library) - High-quality prompts from the Claude team
-- [OpenAI's Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Comprehensive guide to effective prompting
-- [AI Prompt Engineering for Digital Marketers](https://maxbraglia.substack.com/p/the-complete-prompt-engineering-toolkit) - 10 essential techniques for marketers
-- [Semrush AI Prompt Library](https://semrush.com/goodcontent/ai-prompt-library/) - 600+ tested prompts organized by category (content ideation, SEO, audience research) with placeholder fields for immediate use
-- [HubSpot AI Prompt Libraries](https://offers.hubspot.com/ai-prompt-library) - Two complementary libraries: MATG prompts for creative strategies, and 100 Loop Marketing prompts aligned to Express-Tailor-Expand framework
-- [Learn Prompting Marketing Course](https://learnprompting.org/courses/introduction-to-generative-ai-in-marketing) - Structured 3-day course covering prompt engineering for web copy, email, social, SEO, and visual content
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - 150+ role-based prompts maintained by active open-source community (113k+ GitHub stars); works with ChatGPT, Claude, Gemini
-- [AIPRM](https://www.aiprm.com) - Chrome extension with 4,500+ curated prompts for ChatGPT and Claude; categorized by marketing use case (SEO, copywriting, social media) with one-click access. _Free tier; Plus $10/month._
+- [Anthropic's Prompt Library](https://platform.claude.com/docs/en/resources/prompt-library/library) - High-quality optimized prompts from the Claude team for a variety of business and personal tasks.
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - In this repository (139k+ GitHub stars), you will find a wide variety of prompts that can be used with ChatGPT, Claude, Gemini, Hugging Face Chat, Llama, Mistral and other AI chat models.
+- [OpenAI's Prompting Guide](https://platform.openai.com/docs/guides/prompting) - Prompting is the process of providing input to a model. The quality of your output often depends on how well you're able to prompt the model. Learn strategies, techniques, and tools to construct prompts (with code examples).
+- [Semrush AI Prompt Library for Content Marketers](https://www.semrush.com/content-hub/ai-prompt-library/) - 600+ tested prompts organized by category (content ideation, SEO, audience research) with placeholder fields for immediate use
+- [HubSpot AI Prompt Libraries](https://offers.hubspot.com/ai-prompt-library) - A curated collection of AI prompts designed to unlock unconventional marketing strategies
+- [AI Prompt Engineering for Digital Marketers](https://maxbraglia.substack.com/p/the-complete-prompt-engineering-toolkit) - A practical guide to getting better results from AI tools like ChatGPT, Claude, and Gemini.
 
 ### When to Use Prompts vs Tools
 
@@ -67,19 +65,19 @@
 
 ### General Writing Tools
 
-- **[ChatGPT](https://chat.openai.com)** - The foundation. Start here before trying specialized tools.
+- **[ChatGPT](https://chatgpt.com/)** - The foundation. Start here before trying specialized tools.
 - **[Claude](https://claude.ai)** - Better for long-form content and nuanced writing. Excels at maintaining context.
-- **[Jasper](https://jasper.ai)** - Maintains consistent brand voice across multiple writers through memory features and brand style guides; the Surfer SEO integration justifies the premium for high-volume teams. _Enterprise pricing, $49+/month._
-- **[Copy.ai](https://copy.ai)** - Generates quick ad copy, product descriptions, and social posts through 90+ templates; unlimited words on Pro makes it cost-effective for volume short-form needs. _Free tier available._
 
 ### Specialized Content Tools
 
-- **[Frase](https://frase.io)** - Cuts content research time by 50%+ by analyzing top-ranking pages and generating optimized briefs—the research automation genuinely saves hours per article. _Budget-friendly at $15/month._
-- **[Writesonic](https://writesonic.com)** - All-in-one with Chatsonic's real-time web access; cheaper than Jasper ($19/month for 100k words) with similar capabilities for solopreneurs.
-- **[Anyword](https://anyword.com)** - Uses predictive performance scoring trained on marketing data to predict which copy variations will convert—genuinely reduces A/B testing costs for ad copy. _$39+/month, enterprise-focused._
-- **[Grammarly](https://grammarly.com)** - Beyond grammar checking, GrammarlyGO now drafts emails, adjusts tone, and rewrites content; ubiquitous integration works everywhere you write. _Free basic; $12/month Premium._
-- **[Rytr](https://rytr.me)** - 40+ marketing templates and 20+ tone options at $7.50/month unlimited—genuinely good value for freelancers with basic needs, though output requires more editing.
-- **[Notion AI](https://notion.so/product/ai)** - Underrated for internal marketing docs and process documentation.
+- **[Jasper](https://jasper.ai)** - Jasper AI is an AI platform that helps marketing teams quickly generate blog posts, social media copy, emails, and images using natural language inputs, with features for SEO optimization and brand voice consistency.
+- **[Copy.ai](https://copy.ai)** - Copy.ai is an AI platform that generates marketing copy, blog posts, emails, and social media content to help sales and marketing teams brainstorm ideas, summarize information, and scale personalized GTM processes efficiently.
+- **[Writesonic](https://writesonic.com)** - Writesonic is an AI platform that generates articles, ads, product descriptions, and social media posts, with tools for SEO optimization and maintaining brand consistency to streamline marketing and writing tasks.
+- **[Frase](https://frase.io)** - Frase.io is an AI platform that helps marketers and writers research keywords, analyze competitors, and optimize articles for SEO by drawing insights from top-ranking search results.
+- **[Rytr](https://rytr.me)** - Rytr is an AI writing assistant that quickly generates blog posts, emails, ads, and social media content using prompts, templates, customizable tones, and support for multiple languages.
+- **[Anyword](https://anyword.com)** - Anyword is an AI platform that generates, scores, and optimizes high-converting ad copy, emails, social media posts, and website content, using predictive analytics to forecast performance for specific audiences.
+- **[Koala](https://koala.sh/)** - Koala AI is a suite of AI-powered tools for content creators, focusing on SEO-friendly article writing, with core features like KoalaWriter for generating long-form content
+- **[NEURONwriter](https://neuronwriter.com/)** - NeuronWriter is an AI content optimization platform that uses generative AI and semantic SEO to help users create high-ranking Google content, with real-time suggestions for keywords, topics, structure, and internal linking based on competitor analysis.
 
 ---
 
@@ -87,31 +85,31 @@
 
 ### Traditional SEO with AI
 
-- **[Surfer SEO](https://surferseo.com)** - Provides data-backed on-page optimization with 0.28 correlation to actual rankings (highest in industry studies); the content score actually helps content rank. _$79-219/month._
-- **[Clearscope](https://clearscope.io)** - AI-powered content grading with specific term recommendations; grades content in real-time with letter scores and integrates with Google Docs and WordPress. _Premium at $170+/month, enterprise-focused._
-- **[Semrush](https://semrush.com)** - 55+ tools with AI Copilot that surfaces prioritized SEO recommendations daily; new AI Visibility Toolkit tracks brand presence in ChatGPT, Perplexity, and AI Overviews. _$139-499/month, industry standard._
-- **[Ahrefs](https://ahrefs.com)** - Traditional backlink powerhouse with AI Content Helper analyzing top-ranking pages to suggest improvements focused on search intent alignment. _$129+/month._
-- **[MarketMuse](https://marketmuse.com)** - Analyzes your entire website's content inventory, identifying topical authority gaps and suggesting content priorities ranked by potential ROI. _Free tier; paid $99-499/month._
-- **[Rank Math](https://rankmath.com)** - WordPress plugin with AI suggestions for meta tags, schema markup, and on-page optimization; 20+ schema types and bulk editing make it the best free SEO plugin for WordPress sites. _Free core; Pro $59/year._
+- **[Ahrefs](https://ahrefs.com)** - Industry-standard backlink and keyword research suite; AI Content Helper analyzes top-ranking pages to suggest improvements focused on search intent alignment.
+- **[Semrush](https://semrush.com)** - Comprehensive SEO platform (55+ tools) with AI Copilot that surfaces prioritized recommendations daily; AI Visibility Toolkit now tracks brand presence in ChatGPT, Perplexity, and AI Overviews.
+- **[Rank Math](https://rankmath.com)** - WordPress SEO plugin with 3M+ installs; AI assists with meta tags, schema markup, and on-page optimization. Best free option for WordPress sites.
+- **[Surfer SEO](https://surferseo.com)** - On-page optimization platform that analyzes top-ranking competitors; AI-powered content editor scores your drafts against data-driven recommendations for keywords, structure, and length.
+- **[Clearscope](https://clearscope.io)** - Content optimization tool with AI-powered grading; scores content in real-time with specific term recommendations. Integrates with Google Docs and WordPress. Enterprise-focused.
+- **[Ubersuggest](https://neilpatel.com/ubersuggest/)** - Budget-friendly SEO suite for keyword research, site audits, and competitor analysis; AI Writing Assistant generates SEO-optimized content ideas. Ideal for beginners and small businesses with generous free tier.
 
 ### AI Search Optimization (AEO)
 
-- **[SE Ranking AI Overviews Tracker](https://seranking.com/ai-overviews-tracker.html)** - Tracks your website's visibility specifically within Google AI Overviews—shows which keywords trigger AI answers and which sources get cited. _Included in plans from ~$119/month._
-- **[Otterly.AI](https://otterly.ai)** - Real-time AI search monitoring with daily citation updates across ChatGPT, Perplexity, and Google AI Overviews; includes Slack alerts when citations appear or disappear. _Budget-friendly at $49-199/month, free tier available._
-- **[Perplexity Pages](https://perplexity.ai)** - Create content that ranks in AI search engines, not just Google.
+- **[SE Ranking AI Overviews Tracker](https://seranking.com/ai-overviews-tracker.html)** - Tracks your website's visibility specifically within Google AI Overviews—shows which keywords trigger AI answers and which sources get cited.
+- **[Otterly.AI](https://otterly.ai)** - Real-time AI search monitoring with daily citation updates across ChatGPT, Perplexity, and Google AI Overviews; includes Slack alerts when citations appear or disappear.
 
 ---
 
 ## Social Media Management
 
-- **[FeedHive](https://feedhive.com)** - Auto-generates posts from prompts, predicts performance before publishing, and recycles evergreen content with conditional posting that fires actions when engagement hits targets. _From $15/month._
-- **[Buffer](https://buffer.com)** - AI Assistant detects which platform you're writing for and adapts output accordingly—turns one idea into 10 tailored posts with proper formatting and tone. _Free plan; $5/month per channel._
-- **[Predis.ai](https://predis.ai)** - Generates complete Instagram carousels with coherent design from 4-word prompts, plus video posts using matched stock footage; includes competitor analysis. _Free tier; Lite $27/month._
-- **[ContentStudio](https://contentstudio.io)** - Tracks trending content across topics with sentiment analysis and suggests sharing opportunities; Chat AI assistant with prompt library adds real value. _From $19/month._
-- **[Flick](https://flick.social)** - AI copilot "Iris" brainstorms post ideas in stages—starts with concepts, develops full posts, then repurposes for each channel with hashtag generation. _From £11/month._
-- **[Ocoya](https://ocoya.com)** - All-in-one dashboard writes captions, picks hashtags, and creates post graphics together; strong ecommerce integrations for product-focused posting. _From $15/month._
+- **[Buffer](https://buffer.com)** - AI Assistant detects which platform you're writing for and adapts output accordingly—turns one idea into 10 tailored posts with proper formatting and tone.
+- **[Later](https://later.com)** - Visual-first scheduling optimized for Instagram grids and visual feeds; AI suggests best times to post and hashtags based on your audience engagement patterns.
+- **[Typefully](https://typefully.com)** - Minimalist writing and scheduling for X, LinkedIn, Threads, and Bluesky; distraction-free editor excels at crafting threads with AI suggestions to sharpen your copy. Popular with creators and founders.
+- **[ContentStudio](https://contentstudio.io)** - Tracks trending content across topics with sentiment analysis and suggests sharing opportunities; Chat AI assistant with prompt library adds real value.
 - **[Taplio](https://taplio.com)** - LinkedIn specifically. Content creation + engagement. Actually generates B2B leads.
-- **[Later](https://later.com)** - Visual-first scheduling optimized for Instagram grids and visual feeds; AI suggests best times to post and hashtags based on your audience engagement patterns. _Free tier; Pro from $15/month._
+- **[FeedHive](https://feedhive.com)** - Auto-generates posts from prompts, predicts performance before publishing, and recycles evergreen content with conditional posting that fires actions when engagement hits targets.
+- **[Predis.ai](https://predis.ai)** - Generates complete Instagram carousels with coherent design from 4-word prompts, plus video posts using matched stock footage; includes competitor analysis.
+- **[Flick](https://flick.social)** - AI copilot "Iris" brainstorms post ideas in stages—starts with concepts, develops full posts, then repurposes for each channel with hashtag generation.
+- **[Ocoya](https://ocoya.com)** - All-in-one dashboard writes captions, picks hashtags, and creates post graphics together; strong ecommerce integrations for product-focused posting.
 - **[Expandi](https://expandi.io)** - LinkedIn automation for outreach. Use carefully to avoid being flagged.
 
 ---
