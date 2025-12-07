@@ -4,6 +4,8 @@
 
 ⭐ If you find this useful, give it a star and share it with other marketers navigating the AI noise.
 
+![AI marketing tools dashboard with neural network connections](assets/awesome-ai-marketing-hero.jpg)
+
 ---
 
 ## Table of Contents
